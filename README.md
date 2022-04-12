@@ -9,7 +9,6 @@ University of California at Berkeley
   
 ## Contact 
 ✉ Email: yiyangc@berkeley.edu  
-🌐 Website: https://oooyiyangc.github.io (not live yet)
 
 <!---
 oooyiyangc/oooyiyangc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
