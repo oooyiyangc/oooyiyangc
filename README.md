@@ -4,8 +4,8 @@ Economics and Computer Science | Class of 2023
 University of California at Berkeley  
 
 
-\- **Economics**: Specialized in Public Policy, Public Finance, International Economics   
-\- **Computer Science**: Specialized in Machine Learning and Neural Networks
+\- **Economics**: Macroeconomics Policy, Public Finance, International Economics   
+\- **Computer Science**: Machine Learning and Neural Networks
   
 ## Contact 
 ✉ Email: yiyangc@berkeley.edu  
