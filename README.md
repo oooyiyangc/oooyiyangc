@@ -3,9 +3,7 @@
 Economics and Computer Science | Class of 2023  
 University of California at Berkeley  
 
-
-\- **Economics**: Macroeconomics Policy, Public Finance, International Economics   
-\- **Computer Science**: Machine Learning and Neural Networks
+Macroeconomics and Machine Learning. 
   
 ## Contact 
 ✉ Email: yiyangc@berkeley.edu  
