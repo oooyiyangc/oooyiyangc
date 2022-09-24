@@ -7,6 +7,7 @@ Macroeconomics and Machine Learning.
   
 ## Contact 
 ✉ Email: yiyangc@berkeley.edu  
+🔗 Website: [www.yiyangchen.me](https://www.yiyangchen.me/)
 
 <!---
 oooyiyangc/oooyiyangc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
