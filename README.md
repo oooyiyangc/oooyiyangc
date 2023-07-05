@@ -1,7 +1,8 @@
 ## About
 **Yiyang Chen**  
-Economics and Computer Science | Class of 2023  
-University of California at Berkeley  
+Pre-doc Research Fellow with Prof Melissa Dell at Harvard
+
+Bachelor's degree: University of California at Berkeley (Economics and Computer Science)
 
 Macroeconomics and Machine Learning. 
   
