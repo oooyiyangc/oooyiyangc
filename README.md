@@ -1,13 +1,12 @@
 ## About
 **Yiyang Chen**  
-Pre-doc Research Fellow with Prof Melissa Dell at Harvard
+Predoc Research Fellow at Harvard  
 
-Bachelor's degree: University of California at Berkeley (Economics and Computer Science)
+- Bachelor's degree: University of California at Berkeley (Economics and Computer Science)  
+- Research interest: Macroeconomics and Machine Learning.  
 
-Macroeconomics and Machine Learning. 
-  
 ## Contact 
-✉ Email: yiyangc@berkeley.edu  
+✉ Email: ooyiyangc@gmail.com  
 🔗 Website: [www.yiyangchen.me](https://www.yiyangchen.me/)
 
 <!---
