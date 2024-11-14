@@ -1,11 +1,9 @@
-## About
-**Yiyang Chen**  
+## Yiyang Chen 
 Predoc Research Fellow at Harvard  
 
 - Bachelor's degree: University of California, Berkeley (Economics and Computer Science)  
 - Research interest: Macroeconomics and Deep Learning.  
 
-## Contact 
 ✉ Email: ooyiyangc@gmail.com  
 🔗 Website: [www.yiyangchen.me](https://www.yiyangchen.me/)
 
